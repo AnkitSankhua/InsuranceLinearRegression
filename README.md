@@ -1,1 +1,1 @@
-# InsuranceLinearRegression
+# Insurance Linear Regression
