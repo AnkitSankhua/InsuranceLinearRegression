@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Run the Jupyter notebook or Google Colab `InsuranceLinearRegression.ipynb` to see the step-by-step process of loading the data, exploring it, preprocessing, training the linear regression model, and evaluating its performance.
+ Run the Jupyter notebook or Google Colab `InsuranceLinearRegression.ipynb` to see the step-by-step process of loading the data, exploring it, preprocessing, training the linear regression model, and evaluating its performance.
 
 
 ## Contributing
